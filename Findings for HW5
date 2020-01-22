@@ -1,0 +1,12 @@
+Findings
+
+1) for mouse B128, the capomulin drug successfully helped reduce the tumor size over time
+We know this because the line chart shows a downward slope of tumor size over time
+
+2) Infubinol and ceftamin were not as effective as capomulin and ramicane.
+We know this because their tumor sizes at the end of the study were must larger for Infubinol and ceftamin than for capomulin and ramicane.
+As shown by the box plots
+
+3) there is trend that exists between your weight and average tumor size
+The heavier you are, the bigger the tumor size.
+We can see this in the scatter plot that shows a positive relationship between weight and tumor volume in the mice of this study
